@@ -1,0 +1,61 @@
+{
+    "id": 606,
+    "name": "Bounty Baddies 606",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lilac Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Ponytail Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Mavericks Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Pearl Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rinnegan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Red Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Gum Mouth Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Beige Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Black Cat Hair Accessory",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Star Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

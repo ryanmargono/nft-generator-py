@@ -1,0 +1,46 @@
+{
+    "id": 122,
+    "name": "Bounty Baddies 122",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharingan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Beige Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Kitty Bag Accessory",
+            "frequency": 0.03
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 410,
+    "name": "Bounty Baddies 410",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Ginger Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Shell Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mangekyou Sharingan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Matte Pink Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Halo Hair Accessory",
+            "frequency": 0.02
+        }
+    ]
+}

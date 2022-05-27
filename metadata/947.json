@@ -1,0 +1,46 @@
+{
+    "id": 947,
+    "name": "Bounty Baddies 947",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Flames Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Buns Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Horde Top",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dust Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Glossy Grape Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Rose Hair Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Big Round Glasses",
+            "frequency": 0.05454545454545454
+        }
+    ]
+}

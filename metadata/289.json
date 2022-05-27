@@ -1,0 +1,56 @@
+{
+    "id": 289,
+    "name": "Bounty Baddies 289",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Blush Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Afro Hair",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Top",
+            "value": "Sparkly Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mangekyou Sharingan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Orange Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Gum Mouth Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Tan Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Basketball Bag Accessory",
+            "frequency": 0.01
+        }
+    ]
+}

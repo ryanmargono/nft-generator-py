@@ -1,0 +1,51 @@
+{
+    "id": 922,
+    "name": "Bounty Baddies 922",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Robot Skin",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Freckles Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Xiku Necklace",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Basic Eyes",
+            "frequency": 0.15
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Baddies Clip Hair Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "50s Glasses",
+            "frequency": 0.05454545454545454
+        }
+    ]
+}

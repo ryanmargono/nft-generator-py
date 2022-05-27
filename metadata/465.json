@@ -1,0 +1,41 @@
+{
+    "id": 465,
+    "name": "Bounty Baddies 465",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Tie-Dye Background",
+            "frequency": 0.0392156862745098
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Pigtails Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Shell Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Emerald Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Fangs Lips",
+            "frequency": 0.01
+        }
+    ]
+}

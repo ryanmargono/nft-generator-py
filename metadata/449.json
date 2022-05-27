@@ -1,0 +1,51 @@
+{
+    "id": 449,
+    "name": "Bounty Baddies 449",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Trippy Background",
+            "frequency": 0.0196078431372549
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Freckles Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Afro Puffs Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Harness Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Deep Blue Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Berry Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Halo Hair Accessory",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Kurt Glasses",
+            "frequency": 0.03636363636363636
+        }
+    ]
+}

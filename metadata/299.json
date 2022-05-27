@@ -1,0 +1,46 @@
+{
+    "id": 299,
+    "name": "Bounty Baddies 299",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Raspberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Blush Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Grape Bun Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Pay Me Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Deep Purple Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Kurt Glasses",
+            "frequency": 0.03636363636363636
+        }
+    ]
+}

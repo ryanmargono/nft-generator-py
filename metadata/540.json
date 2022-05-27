@@ -1,0 +1,46 @@
+{
+    "id": 540,
+    "name": "Bounty Baddies 540",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Striped Background",
+            "frequency": 0.0392156862745098
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Alien Skin",
+            "frequency": 0.05660377358490566
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Ponytail Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Emerald Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Berry Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Monogram Bow Hair Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

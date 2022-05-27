@@ -1,2 +1,5 @@
 .python-version
 workspace.code-workspace
+.vscode
+images
+trait-layers

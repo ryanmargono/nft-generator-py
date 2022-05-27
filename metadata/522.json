@@ -1,0 +1,56 @@
+{
+    "id": 522,
+    "name": "Bounty Baddies 522",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Money Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Bowie Makeup",
+            "frequency": 0.01
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Ponytail Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Warriors Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Pearl Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crying Eyes",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Deep Purple Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Gum Mouth Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Lips Clip Hair Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": 984,
+    "name": "Bounty Baddies 984",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Pigtails Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Sparkly Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crying Eyes",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Peach Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Beige Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Tiara Hair Accessory",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Kitty Bag Accessory",
+            "frequency": 0.03
+        }
+    ]
+}

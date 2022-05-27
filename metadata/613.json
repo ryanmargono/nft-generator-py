@@ -1,0 +1,41 @@
+{
+    "id": 613,
+    "name": "Bounty Baddies 613",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lilac Wavy Hair",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Top",
+            "value": "Mavericks Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mangekyou Sharingan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Rose Hair Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

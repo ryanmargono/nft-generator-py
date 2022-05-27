@@ -1,0 +1,41 @@
+{
+    "id": 680,
+    "name": "Bounty Baddies 680",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Freckles Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Top",
+            "value": "Pay Me Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharingan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Tongue Lips",
+            "frequency": 0.01
+        }
+    ]
+}

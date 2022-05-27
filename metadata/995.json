@@ -1,0 +1,41 @@
+{
+    "id": 995,
+    "name": "Bounty Baddies 995",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Blush Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Pigtails Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Monogram Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Love Eyes",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        }
+    ]
+}

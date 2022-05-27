@@ -1,0 +1,41 @@
+{
+    "id": 607,
+    "name": "Bounty Baddies 607",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Ponytail Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "HODL Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rusty Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Orange Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Batgirl Glasses",
+            "frequency": 0.03636363636363636
+        }
+    ]
+}

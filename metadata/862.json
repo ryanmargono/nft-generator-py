@@ -1,0 +1,61 @@
+{
+    "id": 862,
+    "name": "Bounty Baddies 862",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Tie-Dye Background",
+            "frequency": 0.0392156862745098
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Grape Bun Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Harness Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Punk Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Berry Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Tan Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Rose Hair Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Sci-Fi Glasses",
+            "frequency": 0.02727272727272727
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Kitty Bag Accessory",
+            "frequency": 0.03
+        }
+    ]
+}

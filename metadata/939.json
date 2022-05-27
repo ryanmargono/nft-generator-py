@@ -1,0 +1,51 @@
+{
+    "id": 939,
+    "name": "Bounty Baddies 939",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Emerald Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rusty Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Deep Purple Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Beige Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pokeball Accessory",
+            "frequency": 0.02
+        }
+    ]
+}

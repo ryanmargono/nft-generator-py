@@ -1,0 +1,66 @@
+{
+    "id": 222,
+    "name": "Bounty Baddies 222",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Space Background",
+            "frequency": 0.0196078431372549
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Blush Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Ponytail Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Xiku Necklace",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grey Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Deep Purple Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Pale Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Rose Hair Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "50s Glasses",
+            "frequency": 0.05454545454545454
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Kitty Bag Accessory",
+            "frequency": 0.03
+        }
+    ]
+}

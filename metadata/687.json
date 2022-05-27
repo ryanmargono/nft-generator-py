@@ -1,0 +1,61 @@
+{
+    "id": 687,
+    "name": "Bounty Baddies 687",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Flames Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Smokey Eye Makeup",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Ginger Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Bikini Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fusia Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Deep Purple Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Tan Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Star Pin Hair Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "50s Glasses",
+            "frequency": 0.05454545454545454
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Puppy Bag Accessory",
+            "frequency": 0.03
+        }
+    ]
+}

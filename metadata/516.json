@@ -1,0 +1,56 @@
+{
+    "id": 516,
+    "name": "Bounty Baddies 516",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bow Updo Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fusia Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Red Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Gum Mouth Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Pale Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Firefly Glasses",
+            "frequency": 0.03636363636363636
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Star Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

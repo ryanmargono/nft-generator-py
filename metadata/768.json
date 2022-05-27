@@ -1,0 +1,41 @@
+{
+    "id": 768,
+    "name": "Bounty Baddies 768",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blueberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Robot Skin",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Freckles Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brunette Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mangekyou Sharingan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Tiara Hair Accessory",
+            "frequency": 0.02
+        }
+    ]
+}

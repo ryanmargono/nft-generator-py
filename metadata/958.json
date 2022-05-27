@@ -1,0 +1,46 @@
+{
+    "id": 958,
+    "name": "Bounty Baddies 958",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Money Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lilac Wavy Hair",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Top",
+            "value": "Bikini Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Ribbon Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Bite Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Gum Mouth Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

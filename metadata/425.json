@@ -1,0 +1,51 @@
+{
+    "id": 425,
+    "name": "Bounty Baddies 425",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lilac Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Afro Puffs Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Celtics Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Emerald Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rusty Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Glossy Grape Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Gum Mouth Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Star Pin Hair Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

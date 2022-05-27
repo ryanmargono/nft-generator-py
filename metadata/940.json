@@ -1,0 +1,46 @@
+{
+    "id": 940,
+    "name": "Bounty Baddies 940",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hot Pink Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bow Updo Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Baddie Necklace",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rinnegan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Rose Hair Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

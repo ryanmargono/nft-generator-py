@@ -1,0 +1,56 @@
+{
+    "id": 284,
+    "name": "Bounty Baddies 284",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Tie-Dye Background",
+            "frequency": 0.0392156862745098
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Grape Bun Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fusia Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Tan Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Lips Clip Hair Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Kurt Glasses",
+            "frequency": 0.03636363636363636
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crocodile Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

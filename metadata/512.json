@@ -1,0 +1,41 @@
+{
+    "id": 512,
+    "name": "Bounty Baddies 512",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Trippy Background",
+            "frequency": 0.0196078431372549
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Alien Skin",
+            "frequency": 0.05660377358490566
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Freckles Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lilac Wavy Hair",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Top",
+            "value": "Sparkly Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Orange Lips",
+            "frequency": 0.05
+        }
+    ]
+}

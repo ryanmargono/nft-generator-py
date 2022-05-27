@@ -1,0 +1,51 @@
+{
+    "id": 18,
+    "name": "Bounty Baddies 18",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Robot Skin",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Smokey Eye Makeup",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Heart Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grey Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Glossy Grape Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Robot Hand",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crocodile Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

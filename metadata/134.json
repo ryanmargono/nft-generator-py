@@ -1,0 +1,46 @@
+{
+    "id": 134,
+    "name": "Bounty Baddies 134",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hot Pink Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bow Updo Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Celtics Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dust Pink Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Pale Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Star Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

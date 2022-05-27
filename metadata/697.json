@@ -1,0 +1,46 @@
+{
+    "id": 697,
+    "name": "Bounty Baddies 697",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lilac Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Alien Skin",
+            "frequency": 0.05660377358490566
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Afro Hair",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Top",
+            "value": "HODL Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Punk Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rinnegan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Shinobi Headband Hair Accessory",
+            "frequency": 0.03
+        }
+    ]
+}

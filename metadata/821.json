@@ -1,0 +1,41 @@
+{
+    "id": 821,
+    "name": "Bounty Baddies 821",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Buns Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Pay Me Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Infinity Stones Necklace",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharingan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Matte Pink Lips",
+            "frequency": 0.05
+        }
+    ]
+}

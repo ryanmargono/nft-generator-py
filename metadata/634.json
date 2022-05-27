@@ -1,0 +1,41 @@
+{
+    "id": 634,
+    "name": "Bounty Baddies 634",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Striped Background",
+            "frequency": 0.0392156862745098
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Pigtails Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Sparkly Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Olive Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Matte Pink Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Headset Hair Accessory",
+            "frequency": 0.03
+        }
+    ]
+}

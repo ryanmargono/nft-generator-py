@@ -1,0 +1,41 @@
+{
+    "id": 745,
+    "name": "Bounty Baddies 745",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Robot Skin",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Ponytail Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Cat Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Orange Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Matte Pink Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "50s Glasses",
+            "frequency": 0.05454545454545454
+        }
+    ]
+}

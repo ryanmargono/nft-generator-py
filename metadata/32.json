@@ -1,0 +1,46 @@
+{
+    "id": 32,
+    "name": "Bounty Baddies 32",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Flames Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Ponytail Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Tourist Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Infinity Stones Necklace",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crying Eyes",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Ahegao Lips",
+            "frequency": 0.01
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Rose Mouth Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

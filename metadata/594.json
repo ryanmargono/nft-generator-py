@@ -1,0 +1,46 @@
+{
+    "id": 594,
+    "name": "Bounty Baddies 594",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Raspberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Top",
+            "value": "Celtics Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Pearl Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Love Eyes",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Matte Pink Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Rose Mouth Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

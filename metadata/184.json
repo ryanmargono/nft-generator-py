@@ -1,0 +1,61 @@
+{
+    "id": 184,
+    "name": "Bounty Baddies 184",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Flames Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Blush Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bow Updo Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Bikini Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Cat Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mangekyou Sharingan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Fangs Lips",
+            "frequency": 0.01
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Gum Mouth Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Deep Brown Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Monogram Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

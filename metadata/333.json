@@ -1,0 +1,56 @@
+{
+    "id": 333,
+    "name": "Bounty Baddies 333",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lilac Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Stars Stickers Makeup",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Ginger Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Heart Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dust Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Red Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Gum Mouth Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Beige Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bucket Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

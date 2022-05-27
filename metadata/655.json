@@ -1,0 +1,36 @@
+{
+    "id": 655,
+    "name": "Bounty Baddies 655",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Space Background",
+            "frequency": 0.0196078431372549
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Pigtails Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharingan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Orange Lips",
+            "frequency": 0.05
+        }
+    ]
+}

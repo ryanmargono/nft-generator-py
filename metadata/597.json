@@ -1,0 +1,41 @@
+{
+    "id": 597,
+    "name": "Bounty Baddies 597",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brunette Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Mavericks Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Xiku Necklace",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rinnegan Eyes",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Tongue Lips",
+            "frequency": 0.01
+        }
+    ]
+}

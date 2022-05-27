@@ -1,0 +1,46 @@
+{
+    "id": 928,
+    "name": "Bounty Baddies 928",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Flames Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bow Updo Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Pay Me Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Cat Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fusia Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Red Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Sci-Fi Glasses",
+            "frequency": 0.02727272727272727
+        }
+    ]
+}

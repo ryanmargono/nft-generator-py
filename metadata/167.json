@@ -1,0 +1,56 @@
+{
+    "id": 167,
+    "name": "Bounty Baddies 167",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blueberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Top",
+            "value": "Shell Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rusty Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Fusia Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Blunt Mouth Accessory",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Pale Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Scanner Glasses",
+            "frequency": 0.02727272727272727
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lips Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

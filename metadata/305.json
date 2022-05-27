@@ -1,0 +1,51 @@
+{
+    "id": 305,
+    "name": "Bounty Baddies 305",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hot Pink Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Messy Buns Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Monogram Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ahegao Eyes",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Peach Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Tan Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Star Pin Hair Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lips Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 933,
+    "name": "Bounty Baddies 933",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lilac Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Alien Skin",
+            "frequency": 0.05660377358490566
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Heart Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Basic Eyes",
+            "frequency": 0.15
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "60s Glasses",
+            "frequency": 0.05454545454545454
+        }
+    ]
+}

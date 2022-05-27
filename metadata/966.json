@@ -1,0 +1,46 @@
+{
+    "id": 966,
+    "name": "Bounty Baddies 966",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hot Pink Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bow Updo Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "HODL Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Ribbon Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dust Pink Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Glossy Grape Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "50s Glasses",
+            "frequency": 0.05454545454545454
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": 982,
+    "name": "Bounty Baddies 982",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brunette Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Bikini Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Ribbon Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fusia Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Deep Purple Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Blunt Mouth Accessory",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Deep Brown Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Baddies Clip Hair Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "AVAX Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

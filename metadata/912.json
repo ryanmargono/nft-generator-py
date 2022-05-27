@@ -1,0 +1,41 @@
+{
+    "id": 912,
+    "name": "Bounty Baddies 912",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hot Pink Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Alien Skin",
+            "frequency": 0.05660377358490566
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Messy Buns Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Bikini Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Orange Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Butterflies Hair Accessory",
+            "frequency": 0.03
+        }
+    ]
+}

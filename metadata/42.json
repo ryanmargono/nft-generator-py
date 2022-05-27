@@ -1,0 +1,36 @@
+{
+    "id": 42,
+    "name": "Bounty Baddies 42",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Money Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Ginger Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Denim Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Love Eyes",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        }
+    ]
+}

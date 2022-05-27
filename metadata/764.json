@@ -1,0 +1,61 @@
+{
+    "id": 764,
+    "name": "Bounty Baddies 764",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lilac Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Ponytail Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Bikini Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Heart Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dust Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Berry Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Gum Mouth Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Deep Brown Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "60s Glasses",
+            "frequency": 0.05454545454545454
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bucket Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

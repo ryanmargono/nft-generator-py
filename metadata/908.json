@@ -1,0 +1,56 @@
+{
+    "id": 908,
+    "name": "Bounty Baddies 908",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Curly Red Hair",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Pearl Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Rose Mouth Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "White Cat Hair Accessory",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "2000s Glasses",
+            "frequency": 0.05454545454545454
+        }
+    ]
+}

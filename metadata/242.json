@@ -1,0 +1,46 @@
+{
+    "id": 242,
+    "name": "Bounty Baddies 242",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Flames Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Curly Red Hair",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Top",
+            "value": "Denim Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Pearl Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Basic Eyes",
+            "frequency": 0.15
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Matte Pink Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Black Cat Hair Accessory",
+            "frequency": 0.04
+        }
+    ]
+}

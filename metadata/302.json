@@ -1,0 +1,31 @@
+{
+    "id": 302,
+    "name": "Bounty Baddies 302",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Robot Skin",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fusia Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        }
+    ]
+}

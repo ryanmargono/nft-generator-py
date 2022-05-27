@@ -1,0 +1,46 @@
+{
+    "id": 755,
+    "name": "Bounty Baddies 755",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Space Background",
+            "frequency": 0.0196078431372549
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Robot Skin",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Blush Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grey Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Robot Hand",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pokeball Accessory",
+            "frequency": 0.02
+        }
+    ]
+}

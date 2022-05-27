@@ -1,0 +1,41 @@
+{
+    "id": 49,
+    "name": "Bounty Baddies 49",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blueberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Pigtails Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Denim Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Basic Eyes",
+            "frequency": 0.15
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Peach Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "White Cat Hair Accessory",
+            "frequency": 0.04
+        }
+    ]
+}

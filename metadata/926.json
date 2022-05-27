@@ -1,0 +1,36 @@
+{
+    "id": 926,
+    "name": "Bounty Baddies 926",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Rainbow Pigtails Hair",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Top",
+            "value": "Warriors Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rusty Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        }
+    ]
+}

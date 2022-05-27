@@ -1,0 +1,56 @@
+{
+    "id": 608,
+    "name": "Bounty Baddies 608",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Space Background",
+            "frequency": 0.0196078431372549
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Freckles Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brunette Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Harness Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "High Eyes",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Matte Pink Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Tan Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Bunny Hair Accessory",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bucket Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

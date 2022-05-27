@@ -1,0 +1,46 @@
+{
+    "id": 662,
+    "name": "Bounty Baddies 662",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Raspberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Curly Red Hair",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Top",
+            "value": "Sparkly Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Deep Blue Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Halo Hair Accessory",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Batgirl Glasses",
+            "frequency": 0.03636363636363636
+        }
+    ]
+}

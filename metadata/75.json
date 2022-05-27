@@ -1,0 +1,56 @@
+{
+    "id": 75,
+    "name": "Bounty Baddies 75",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blueberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Buns Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Monogram Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Tan Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Tiara Hair Accessory",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Batgirl Glasses",
+            "frequency": 0.03636363636363636
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dragonball Accessory",
+            "frequency": 0.02
+        }
+    ]
+}

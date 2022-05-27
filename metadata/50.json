@@ -1,0 +1,56 @@
+{
+    "id": 50,
+    "name": "Bounty Baddies 50",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blueberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fusia Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Orange Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Tan Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Butterflies Hair Accessory",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Kurt Glasses",
+            "frequency": 0.03636363636363636
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Heart Bag Accessory",
+            "frequency": 0.04
+        }
+    ]
+}

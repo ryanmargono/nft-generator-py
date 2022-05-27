@@ -1,0 +1,51 @@
+{
+    "id": 793,
+    "name": "Bounty Baddies 793",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Tie-Dye Background",
+            "frequency": 0.0392156862745098
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Robot Skin",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Messy Buns Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Heart Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dust Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Robot Hand",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Butterflies Hair Accessory",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Heart Bag Accessory",
+            "frequency": 0.04
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 233,
+    "name": "Bounty Baddies 233",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Money Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Pigtails Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Celtics Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Xiku Necklace",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Basic Eyes",
+            "frequency": 0.15
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Bite Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Pale Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Tiara Hair Accessory",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "AVAX Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

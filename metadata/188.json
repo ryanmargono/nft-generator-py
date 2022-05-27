@@ -1,0 +1,36 @@
+{
+    "id": 188,
+    "name": "Bounty Baddies 188",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hot Pink Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Robot Skin",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Wet Mascara Makeup",
+            "frequency": 0.01
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fluffy Pink Hair",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Orange Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        }
+    ]
+}

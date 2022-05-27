@@ -1,0 +1,61 @@
+{
+    "id": 999,
+    "name": "Bounty Baddies 999",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Freckles Makeup",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Basic Hair",
+            "frequency": 0.1
+        },
+        {
+            "trait_type": "Top",
+            "value": "Horde Top",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Bite Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Beige Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Bunny Hair Accessory",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Sci-Fi Glasses",
+            "frequency": 0.02727272727272727
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Monogram Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

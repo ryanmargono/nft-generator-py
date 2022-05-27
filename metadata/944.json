@@ -1,0 +1,46 @@
+{
+    "id": 944,
+    "name": "Bounty Baddies 944",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Strawberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Makeup",
+            "value": "Wet Mascara Makeup",
+            "frequency": 0.01
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Afro Hair",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Top",
+            "value": "Bikini Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Cat Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rinne Sharingan Eyes",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Red Lips",
+            "frequency": 0.05
+        }
+    ]
+}

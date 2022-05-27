@@ -1,0 +1,46 @@
+{
+    "id": 2,
+    "name": "Bounty Baddies 2",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Raspberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fluffy Pink Hair",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Top",
+            "value": "Basic Top",
+            "frequency": 0.27
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grey Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Tongue Lips",
+            "frequency": 0.01
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Black Cat Hair Accessory",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Firefly Glasses",
+            "frequency": 0.03636363636363636
+        }
+    ]
+}

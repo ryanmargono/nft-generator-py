@@ -1,0 +1,41 @@
+{
+    "id": 246,
+    "name": "Bounty Baddies 246",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Money Background",
+            "frequency": 0.029411764705882353
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Deep Brown Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Messy Buns Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "HODL Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "PokeBall Necklace",
+            "frequency": 0.005
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Olive Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": 212,
+    "name": "Bounty Baddies 212",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Trippy Background",
+            "frequency": 0.0196078431372549
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Buns Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Harness Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Olive Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Fusia Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Pale Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Monogram Bow Hair Accessory",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Puppy Bag Accessory",
+            "frequency": 0.03
+        }
+    ]
+}

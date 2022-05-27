@@ -1,0 +1,51 @@
+{
+    "id": 437,
+    "name": "Bounty Baddies 437",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Trippy Background",
+            "frequency": 0.0196078431372549
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Beige Skin",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Pigtails Hair",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Top",
+            "value": "Warriors Top",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Deep Blue Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Beige Hand",
+            "frequency": 0.22641509433962265
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Butterflies Hair Accessory",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "AVAX Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 741,
+    "name": "Bounty Baddies 741",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Tie-Dye Background",
+            "frequency": 0.0392156862745098
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Robot Skin",
+            "frequency": 0.03773584905660377
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Afro Puffs Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Hokage Necklace",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dust Red Eyes",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Deep Purple Lips",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Sci-Fi Glasses",
+            "frequency": 0.02727272727272727
+        }
+    ]
+}

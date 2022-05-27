@@ -1,0 +1,61 @@
+{
+    "id": 569,
+    "name": "Bounty Baddies 569",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blueberry Background",
+            "frequency": 0.13725490196078433
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Alien Skin",
+            "frequency": 0.05660377358490566
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Afro Puffs Hair",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Top",
+            "value": "Heart Top",
+            "frequency": 0.05
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Ribbon Necklace",
+            "frequency": 0.06
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "High Eyes",
+            "frequency": 0.04
+        },
+        {
+            "trait_type": "Lips",
+            "value": "Basic Lips",
+            "frequency": 0.52
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Blunt Mouth Accessory",
+            "frequency": 0.03
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Alien Hand",
+            "frequency": 0.05660377358490566
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Tiara Hair Accessory",
+            "frequency": 0.02
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crocodile Bag Accessory",
+            "frequency": 0.05
+        }
+    ]
+}
